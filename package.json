@@ -1,0 +1,36 @@
+{
+  "name": "emulator-run-adroid",
+  "version": "1.0.0",
+  "description": "command to start an emulator and run the app",
+  "scripts": {
+    "build": "bash build.sh"
+  },
+  "bin": {
+    "emulator-run-adroid": "./build.sh"
+  },
+  "author": "Elbert Tous <contacto@lotous.com.co> (https://www.github.com/lotous)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lotous/emulator-run-adroid.git"
+  },
+  "homepage": "https://lotous.com.co/emulator-run-adroid",
+  "bugs": "https://github.com/lotous/emulator-run-adroid/issues",
+  "tags": [
+    "emulator",
+    "react",
+    "reactjs",
+    "create",
+    "adroid",
+    "cli"
+  ],
+  "keywords": [
+    "emulator",
+    "react",
+    "reactjs",
+    "create",
+    "adroid",
+    "cli"
+  ],
+  "dependencies": {}
+}
